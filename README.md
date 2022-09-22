@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YordanMilanov
-- 👀 I’m interested in Java software development
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m @YordanMilanov and I'm software development student.
+- 👀 I’m interested in Java and JavaScript software development.
+- 🌱 I’m currently learning Java / JavaScript.
 - 📫 How to reach me - dancho.galinov@gmail.com
 
 <!---
